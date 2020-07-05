@@ -1,0 +1,19 @@
+{
+  "name": "mercury",
+  "version": "1.0.0",
+  "description": "Back to App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Avera123/mercury.git"
+  },
+  "author": "Alejandro Vera Carrasquilla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Avera123/mercury/issues"
+  },
+  "homepage": "https://github.com/Avera123/mercury#readme"
+}

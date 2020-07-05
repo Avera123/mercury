@@ -1,3 +1,0 @@
-# mercury
-
-# Alejandro Vera Carrasquilla
